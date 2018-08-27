@@ -72,4 +72,6 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
-# DeporTel_UTFSM
+# DeporTEL UTFSM
+
+Pagina Web dedicada a motivar, promocionar y compartir el deporte en la Universidad Federico Santa Maria
